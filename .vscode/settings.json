@@ -1,0 +1,8 @@
+{
+    "powermode.enabled": false,
+    "powermode.explosions.enabled": false,
+    "powermode.shake.enabled": false,
+      // Git & GitHub
+  "git.autofetch": true,
+  "git.enableSmartCommit": true
+}
